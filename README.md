@@ -1,4 +1,4 @@
-# 2016-tutorials
+# 2017 May 30 - git Tutorial
 
 Schedule and links to tutorials on are the Wiki
 https://github.com/edamame-course/2016-tutorials/wiki
